@@ -149,3 +149,11 @@ To run the analysis, you need Python 3 and the following Python libraries:
 2. Pandas
 3. Matplotlib
 4. Seaborn
+
+## Contributing
+
+Feel free to contribute to this project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you want to change.\
+
+## Contact
+
+For any questions or feedback, please reach out to <rastogikunal19@gmail.com>.
